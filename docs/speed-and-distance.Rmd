@@ -1,7 +1,5 @@
 ---
 title: "speed-and-distance"
-author: "William Gilks"
-date: "29/07/2019"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
